@@ -1,3 +1,5 @@
+![Brand Voice Builder](Brand%20Voice%20Builder%20github%20header.png)
+
 # Brand Voice Builder
 
 Brand Voice Builder is a guided setup that produces 2 files — one that captures who you're writing for and what they already believe, one that gives Claude writing defaults, drift controls, and rewrite patterns specific enough that they couldn't describe a different brand without being wrong.
