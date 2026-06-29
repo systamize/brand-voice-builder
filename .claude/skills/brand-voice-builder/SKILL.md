@@ -1,5 +1,6 @@
 ---
-name: brand-voice-builder
+name: >-
+brand-voice-builder
 description: >-
 Create the two files Claude needs before drafting for a brand: brand-context.md and voice.md. Use when a brand needs reusable writing instructions for Claude, a practical voice setup for AI-assisted writing, an audit of existing copy, or a clearer system for avoiding generic AI output. Triggers on: brand voice, voice and tone, tone of voice, voice document, voice guidelines, writing style, copy audit, voice training, how should we write, sounds like us, Claude writing style, AI writing instructions, brand context. Also triggers when the user says copy "feels off" or Claude's drafts "don't sound right" even without using the word voice.
 ---
