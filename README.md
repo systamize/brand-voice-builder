@@ -1,8 +1,11 @@
 # Brand Voice Builder
 
-A Claude Code skill that creates the two files Claude needs before drafting for a brand.
+Brand Voice Builder is a guided setup that produces 2 files — one that captures who you're writing for and what they already believe, one that gives Claude writing defaults, drift controls, and rewrite patterns specific enough that they couldn't describe a different brand without being wrong.
 
-Run it once. Get a writing system Claude can actually use.
+You share existing writing if you have it. Claude reads it and maps the moves before asking anything. Then 8 questions. Then the files.
+
+Install and run /brand-voice-builder in Claude Code.
+
 
 ---
 
