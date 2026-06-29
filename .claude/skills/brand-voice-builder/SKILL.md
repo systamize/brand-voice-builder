@@ -6,25 +6,21 @@ description: >-
 
 # Brand Voice Builder
 
-A guided setup that gives Claude the context and writing rules it needs before drafting for a brand.
+A guided setup. Run it once and Claude writes in your brand's voice without being briefed from scratch every time.
 
 The process produces two files:
 
-- `brand-context.md` — the foundation document that captures who the brand is, who it serves, what the audience already believes, and what the brand stands for
-- `voice.md` — the working reference Claude reads before writing, with writing defaults, drift controls, channel handling, language instructions, rewrite patterns, and anti-patterns
-
-Voice without context is decoration. `brand-context.md` comes first.
+- `brand-context.md` — tells Claude who it's writing for.
+- `voice.md` — tells Claude how to write.
 
 ---
 
 ## When to use
 
-- A brand has never documented how Claude should write for it
-- Claude's drafts are close but still generic
-- Copy exists across channels but there is no consistent thread between them
-- A writer, agency, or AI tool needs concrete writing instructions rather than loose adjectives
-- The brand has evolved — new audience, new positioning — and the writing system has not caught up
-- Existing copy feels off and no one can articulate why
+- Claude's drafts are close but still sound like they could come from anyone
+- You know something feels off but can't say what yet
+- Copy exists across channels but there's no consistent thread
+- You've never documented how Claude should write for your brand
 
 ## When NOT to use
 
